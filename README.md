@@ -25,7 +25,9 @@ validated the results in ANSYS
 <p align="center">
   <img src="images/pgt.PNG" alt="PGT">
 </p>
+<p align="center"><em>Figure 1: Planetary gear train.</em></p>
 
 <p align="center">
   <img src="images/shaft.PNG" alt="Shaft">
 </p>
+<p align="center"><em>Figure 2: Motor shaft.</em></p>
