@@ -21,3 +21,11 @@ of results by performing FEA in ANSYS and KISSsoft software
 * Designed an involute-splined electric motor shaft, performed fatigue failure analysis due to bending and torsional stresses, and
 validated the results in ANSYS
 * Performed modal analysis of the motor shaft in ANSYS to optimize its design against bending and torsional vibrations
+
+<p align="center">
+  <img src="images/pgt.PNG" alt="PGT">
+</p>
+
+<p align="center">
+  <img src="images/shaft.PNG" alt="Shaft">
+</p>
